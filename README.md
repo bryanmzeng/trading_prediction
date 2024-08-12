@@ -1,6 +1,6 @@
 # Trading Prediction with Machine Learning
 
-This project demonstrates how to integrate machine learning models with backtesting frameworks to create and evaluate trading strategies. The core idea is to use a `RandomForestClassifier` to make trading decisions based on various technical indicators.
+This project demonstrates how to integrate machine learning models with backtesting frameworks to create and evaluate trading strategies. The core idea is to use a `RandomForestClassifier` to make trading decisions based on various technical indicators and Apple's historical stock data.
 
 ## Key Features
 
